@@ -12,7 +12,6 @@ This is a modal component that is built with vanilla JavaScript.
 - CSS
 - JavaScript
 - GitHub
-- Netlify
 
 <h3>Link to site:</h3>
 
